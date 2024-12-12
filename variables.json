@@ -1,0 +1,14 @@
+{
+    "type": 1,
+    "quantity": 0.1, 
+    "asset": "EUR/USD",
+    "leverage": 200,
+    "tournament_id": "73578710-1353-419c-9704-17a3977d1a83",
+    "take_profit_pip": 4.2, 
+    "stop_loss_pip": 3.2, 
+    "pending_price": 0.07651, 
+    "product_type": 1,
+    "price_object": {
+      "EUR/USD": "{\"ask\":1.07561,\"bid\":1.07541,\"mid\":1.07551,\"ts\":1720001806222,\"price\":1.07551,\"time\":1720001806222,\"asset\":\"EUR/USD\",\"type\":\"forex\",\"priority\":1,\"exchange\":\"OANDA\",\"standard_volume\":100000,\"scale_percent\":90,\"base_pip\":0.0001}"
+    }
+  }
